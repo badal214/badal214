@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nitish Sharma 👋
 
-<!--
-**badal214/badal214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in **React.js and JavaScript**.
 
-Here are some ideas to get you started:
+📍 Noida / Delhi NCR  
+🎓 MCA Graduate  
+💼 Open to Frontend Developer Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+HTML5 | CSS3 | JavaScript (ES6+)  
+React.js | Context API | REST API  
+Git | GitHub | VS Code
+
+---
+
+## 📂 Featured Projects
+
+### HireFlow – Job Application Tracking Dashboard
+React dashboard to manage job applications with filtering, routing, and analytics.
+
+### GlamTech – Stylist & Salon Onboarding Platform
+Multi-step React onboarding platform with role-based signup and API integration.
+
+### File Distribution Portal
+Web system to distribute documents digitally using PHP and MySQL.
+
+---
+
+## 📫 Connect With Me
+
+
+Email: nitishsharma1266@email.com
+
+---
